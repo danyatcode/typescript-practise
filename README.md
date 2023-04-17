@@ -7,7 +7,7 @@
 - Типізація хука useRef. Uncontrolled компонент
 - Типізація react-router-dom. За допомогою useNavigate, useParams, BrowserRouter
 
-
+#
 - Components. Typification of props. Interfaces
 - Axios query typing. Typing the UseState() hook
 - Reusable List component. Generics, Generalized types in typescript
